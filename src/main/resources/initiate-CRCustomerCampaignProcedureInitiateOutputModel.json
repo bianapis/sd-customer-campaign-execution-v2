@@ -1,0 +1,24 @@
+{
+  "customerCampaignProcedureInitiateActionRecord" : {},
+  "customerCampaignProcedureInstanceStatus" : "customerCampaignProcedureInstanceStatus",
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "726890",
+    "customerCampaignProcedureResult" : {
+      "leadOpportunityProcedureInstanceReference" : "768183",
+      "customerCampaignProcedureLeadOpportunityDescription" : "customerCampaignProcedureLeadOpportunityDescription"
+    },
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignConsumablesInventory" : {
+      "customerCampaignConsumableHolding" : "customerCampaignConsumableHolding"
+    }
+  },
+  "customerCampaignProcedureInstanceReference" : "CCPIR731200",
+  "customerCampaignProcedureInitiateActionReference" : "CCPIAR768266"
+}

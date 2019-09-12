@@ -1,0 +1,33 @@
+{
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "726615",
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription"
+  },
+  "candidateSelectionRetrieveActionTaskRecord" : {},
+  "candidateSelectionInstanceAnalysis" : {
+    "candidateSelectionInstanceAnalysisParameters" : "candidateSelectionInstanceAnalysisParameters",
+    "candidateSelectionInstanceAnalysisReport" : {},
+    "candidateSelectionInstanceAnalysisRecord" : {},
+    "candidateSelectionInstanceAnalysisReportType" : "candidateSelectionInstanceAnalysisReportType"
+  },
+  "candidateSelectionRetrieveActionResponse" : "candidateSelectionRetrieveActionResponse",
+  "candidateSelectionInstanceRecord" : {
+    "customerCampaignSelectionCriteria" : "customerCampaignSelectionCriteria",
+    "customerCampaignCandidateEmployeeBusinessUnitReference" : "783462",
+    "customerCampaignCandidateReference" : "749125"
+  },
+  "candidateSelectionRetrieveActionTaskReference" : "CSRATR714699",
+  "candidateSelectionInstanceReport" : {
+    "candidateSelectionInstanceReportRecord" : {},
+    "candidateSelectionInstanceReportType" : "candidateSelectionInstanceReportType",
+    "candidateSelectionInstanceReportParameters" : "candidateSelectionInstanceReportParameters",
+    "candidateSelectionInstanceReport" : {}
+  }
+}

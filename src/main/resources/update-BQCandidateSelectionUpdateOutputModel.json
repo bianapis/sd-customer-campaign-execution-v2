@@ -1,0 +1,21 @@
+{
+  "candidateSelectionUpdateActionTaskReference" : "CSUATR763477",
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "771278",
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription"
+  },
+  "candidateSelectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "candidateSelectionInstanceRecord" : {
+    "customerCampaignSelectionCriteria" : "customerCampaignSelectionCriteria",
+    "customerCampaignCandidateEmployeeBusinessUnitReference" : "740690",
+    "customerCampaignCandidateReference" : "709149"
+  }
+}

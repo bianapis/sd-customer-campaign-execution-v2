@@ -1,0 +1,24 @@
+{
+  "analysisInstanceReference" : "AIR739404",
+  "analysisInstanceStatus" : "analysisInstanceStatus",
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "724961",
+    "customerCampaignProcedureResult" : {
+      "leadOpportunityProcedureInstanceReference" : "708570",
+      "customerCampaignProcedureLeadOpportunityDescription" : "customerCampaignProcedureLeadOpportunityDescription"
+    },
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignConsumablesInventory" : {
+      "customerCampaignConsumableHolding" : "customerCampaignConsumableHolding"
+    }
+  },
+  "analysisInitiateActionReference" : "AIAR719947",
+  "analysisInitiateActionRecord" : {}
+}

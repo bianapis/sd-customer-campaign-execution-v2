@@ -1,0 +1,32 @@
+{
+  "executionInitiateActionReference" : "EIAR724258",
+  "executionInstanceStatus" : "executionInstanceStatus",
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "723564",
+    "customerCampaignProcedureResult" : {
+      "leadOpportunityProcedureInstanceReference" : "728450",
+      "customerCampaignProcedureLeadOpportunityDescription" : "customerCampaignProcedureLeadOpportunityDescription"
+    },
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignConsumablesInventory" : {
+      "customerCampaignConsumableHolding" : "customerCampaignConsumableHolding"
+    }
+  },
+  "executionInstanceReference" : "EIR782908",
+  "executionInitiateActionRecord" : {},
+  "executionInstanceRecord" : {
+    "customerCampaignProcedureWorkTaskType" : "customerCampaignProcedureWorkTaskType",
+    "customerCampaignProcedureWorkTaskDateTime" : "09-22-2018",
+    "customerCampaignProcedureWorkTaskResult" : "customerCampaignProcedureWorkTaskResult",
+    "customerCampaignProcedureWorkTaskDescription" : "customerCampaignProcedureWorkTaskDescription",
+    "customerCampaignProcedureWorkTaskWorkProducts" : "customerCampaignProcedureWorkTaskWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "700980"
+  }
+}

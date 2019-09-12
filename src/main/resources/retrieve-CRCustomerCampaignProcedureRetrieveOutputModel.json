@@ -1,0 +1,34 @@
+{
+  "customerCampaignProcedureRetrieveActionTaskRecord" : {},
+  "customerCampaignProcedureRetrieveActionTaskReference" : "CCPRATR709051",
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "771908",
+    "customerCampaignProcedureResult" : {
+      "leadOpportunityProcedureInstanceReference" : "794765",
+      "customerCampaignProcedureLeadOpportunityDescription" : "customerCampaignProcedureLeadOpportunityDescription"
+    },
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignConsumablesInventory" : {
+      "customerCampaignConsumableHolding" : "customerCampaignConsumableHolding",
+      "customerCampaignConsumableType" : "customerCampaignConsumableType"
+    }
+  },
+  "customerCampaignProcedureInstanceAnalysis" : {
+    "customerCampaignProcedureInstanceAnalysisReport" : {},
+    "customerCampaignProcedureInstanceAnalysisData" : "customerCampaignProcedureInstanceAnalysisData",
+    "customerCampaignProcedureInstanceAnalysisReportType" : "customerCampaignProcedureInstanceAnalysisReportType"
+  },
+  "customerCampaignProcedureInstanceReportRecord" : {
+    "customerCampaignProcedureInstanceReport" : {},
+    "customerCampaignProcedureInstanceReportData" : "customerCampaignProcedureInstanceReportData",
+    "customerCampaignProcedureInstanceReportType" : "customerCampaignProcedureInstanceReportType"
+  },
+  "customerCampaignProcedureRetrieveActionResponse" : "customerCampaignProcedureRetrieveActionResponse"
+}

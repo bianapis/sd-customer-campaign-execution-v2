@@ -1,0 +1,36 @@
+{
+  "analysisInstanceAnalysis" : {
+    "analysisInstanceAnalysisRecord" : {},
+    "analysisInstanceAnalysisReport" : {},
+    "analysisInstanceAnalysisReportType" : "analysisInstanceAnalysisReportType",
+    "analysisInstanceAnalysisParameters" : "analysisInstanceAnalysisParameters"
+  },
+  "customerCampaignProcedureInstanceRecord" : {
+    "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+    "employeeBusinessUnitReference" : "741928",
+    "customerCampaignProcedureResult" : {
+      "leadOpportunityProcedureInstanceReference" : "796841",
+      "customerCampaignProcedureLeadOpportunityDescription" : "customerCampaignProcedureLeadOpportunityDescription"
+    },
+    "customerCampaignSchedule" : "customerCampaignSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup",
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignConsumablesInventory" : {
+      "customerCampaignConsumableHolding" : "customerCampaignConsumableHolding",
+      "customerCampaignConsumableType" : "customerCampaignConsumableType"
+    }
+  },
+  "analysisRetrieveActionTaskRecord" : {},
+  "analysisInstanceReport" : {
+    "analysisInstanceReportParameters" : "analysisInstanceReportParameters",
+    "analysisInstanceReport" : {},
+    "analysisInstanceReportRecord" : {},
+    "analysisInstanceReportType" : "analysisInstanceReportType"
+  },
+  "analysisRetrieveActionTaskReference" : "ARATR770562",
+  "analysisRetrieveActionResponse" : "analysisRetrieveActionResponse"
+}
